@@ -1,6 +1,8 @@
 <?php
 
-class PRequests_ResponseObject
+namespace PHttpRequests;
+
+class Response
 {
 
     public $statusCode = null;
